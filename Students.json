@@ -1,0 +1,42 @@
+{
+  "student-1": {
+    "id": 100,
+    "name": "John",
+    "DOB": "08-10-1999",
+    "mobileNumber": "9876543210",
+    "email": "newjohn@email.com",
+    "DOJ": "06-15-2017"
+  },
+  "student-2": {
+    "id": 101,
+    "name": "Liya",
+    "DOB": "11-20-1998",
+    "mobileNumber": "9878321211",
+    "email": "liya-new-email@email.com",
+    "DOJ": "06-10-2017"
+  },
+  "student-4": {
+    "id": 103,
+    "name": "Priya",
+    "DOB": "02-10-1999",
+    "mobileNumber": "9875348304",
+    "email": "newpriya@email.com",
+    "DOJ": "06-25-2017"
+  },
+  "student-5": {
+    "id": 104,
+    "name": "Amy",
+    "DOB": "10-30-1998",
+    "mobileNumber": "9885153455",
+    "email": "newamy@email.com",
+    "DOJ": "07-15-2017"
+  },
+  "student-6": {
+    "id": 105,
+    "name": "John Doe",
+    "DOB": "08-10-1982",
+    "mobileNumber": "9876543210",
+    "email": "john@email.com",
+    "DOJ": "06-15-2017"
+  }
+}
